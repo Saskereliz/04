@@ -8,7 +8,7 @@
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("Calculator module");
-MODULE_AUTHOR("Pasevina Polina");
+MODULE_AUTHOR("Dimas");
 
 #define DEVICE_NAME "calc"
 #define DIVISION_BY_ZERO 1
