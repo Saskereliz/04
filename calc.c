@@ -147,7 +147,6 @@ static ssize_t device_write(struct file *file, const char *buffer, size_t length
         break;
     case 2:
         operand = msg[0];
-        printk("operand = %s", operand); 
         break;
     default: 
         break;  
